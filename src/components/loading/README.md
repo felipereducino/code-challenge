@@ -1,0 +1,1 @@
+This component will be render while the API is loading.

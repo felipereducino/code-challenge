@@ -1,0 +1,1 @@
+This component will render the cards on screen. This component also receive as property all the card informations received from the view Card through API.
